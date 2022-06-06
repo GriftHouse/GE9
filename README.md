@@ -1,7 +1,7 @@
-# Welcome to CyberPunksREMIX
+# Welcome to GOBLIN-EGG
 All the code in these repos was created and explained by HashLips on the main YouTube channel.
 
-# CyberPunksREMIX minting dapp 🔥
+# GOBLIN-EGG minting dapp 🔥
 
 This repo provides a nice and easy way for linking an existing NFT smart contract to this minting dapp. There are two ways of using this repo, you can go the simple route or the more complex one.
 
