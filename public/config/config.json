@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0x9eE393A0d5dABF5Eb26566f4bC959e22E8Cc9A51",
+  "SCAN_LINK": "https://etherscan.io/address/0x9eE393A0d5dABF5Eb26566f4bC959e22E8Cc9A51",
+  "NETWORK": {
+    "NAME": "Ethereum",
+    "SYMBOL": "ETH",
+    "ID": 1
+  },
+  "NFT_NAME": "GOBLIN EGGS",
+  "SYMBOL": "GEGG",
+  "MAX_SUPPLY": 4269,
+  "WEI_COST": 0,
+  "DISPLAY_COST": 0,
+  "GAS_LIMIT": 300000,
+  "MARKETPLACE": "Opensea",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/goblin-eggs",
+  "SHOW_BACKGROUND": true
+}
